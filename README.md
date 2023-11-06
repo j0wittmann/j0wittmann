@@ -1,4 +1,5 @@
 ### Hi there 👋
+my name is Jonas and I'm studying computer science in Munich, Germany.
 
 <!--
 **jonywittmann/jonywittmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
