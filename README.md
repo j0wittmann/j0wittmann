@@ -1,5 +1,5 @@
 ## Hi there 👋
-my name is Jonas and I'm studying Computer Science at the Munich University of Applied Sciences.
+my name is Jonas and I'm studying Computer Science at the Munich University of Applied Sciences.  
 Besides my regular studies, I focus on cyber security and have taken the following courses:
 - Computer Networks I
 - Computer Networks II
