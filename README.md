@@ -8,7 +8,7 @@ Besides my regular studies, I focus on cyber security and have taken the followi
 - Web Application Security
 - Secure Network Management
 
-In my free time, I'm active on Hack The Box, practicing penetration testing to achieve the CPTS certification.
+In my free time, I actively participate on HackTheBox, practicing penetration testing to achieve the CPTS certification.
 
 
 <!--
