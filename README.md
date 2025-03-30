@@ -1,6 +1,5 @@
 ## Hi there 👋
-my name is Jonas and I'm studying Computer Science at the Munich University of Applied Sciences.  
-Besides my regular studies, I actively participate on HackTheBox, practicing penetration testing to achieve the CPTS certification.
+my name is Jonas and I'm studying Computer Science at the Munich University of Applied Sciences.
 
 <!--
 **jonywittmann/jonywittmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
