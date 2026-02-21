@@ -1,5 +1,5 @@
 ## Hi there 👋
-my name is Jonas and I'm studying Computer Science at the Munich University of Applied Sciences.
+I'm Jonas, a Computer Science graduate from the Munich University of Applied Sciences. My focus lies in Cyber Security, Offensive Security, and Secure Network Management. Currently exploring new ways to secure (and bypass) modern infrastructures.
 
 <!--
 **jonywittmann/jonywittmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
