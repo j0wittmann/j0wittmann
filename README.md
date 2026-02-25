@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Jonas, a Computer Science graduate from the Munich. My focus lies in Cyber Security, Offensive Security, and Secure Network Management.
+I'm Jonas, a Computer Science graduate from Munich. My focus lies in Cyber Security, Offensive Security, and Secure Network Management.
 
 <!--
 **jonywittmann/jonywittmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
